@@ -18,6 +18,18 @@ Liver disease is a serious global health threat that can lead to life-threatenin
 > Can we predict liver disease based on patient biochemical and demographic data using machine learning?
 
 ---
+## Team Members
+
+> Bhavya Samtani
+
+> Jainam Sanjay Zaveri
+
+> Lokesh Dhamodharan
+
+> Priyank Sachin Palshetkar
+
+> Riya Bhatia
+---
 
 ## Methodology: CRISP-DM
 
